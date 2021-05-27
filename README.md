@@ -10,9 +10,9 @@
 
  🔭 Estoy trabajando en...
 - Portfolio personal
-- Página web de Badalona JiuJitsu
+- Página web de Badalona JiuJitsu -> https://martindejos.github.io/jiujitsu/
 
-- 😄 Hasta el momento, he estudiado...
+😄 Hasta el momento, he estudiado...
 - HTML, CSS y JavaScript
 - Bootstrap
 - Metodologías Agile
