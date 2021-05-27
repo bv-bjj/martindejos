@@ -15,7 +15,10 @@
 😄 Hasta el momento, he estudiado...
 - HTML, CSS y JavaScript
 - Bootstrap
-- Metodologías Agile
+- Metodologías Agile, Scrum, 
+- GitHub 
+- Figma, Canva, Miro
+- Trello
 - PHP y Crud
 - Arquitecturas MVC
 
