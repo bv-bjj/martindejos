@@ -1,6 +1,6 @@
 ### ¡Hola al mundo! 👋
 
-#Bienvenid@s!
+## Bienvenid@s!
 
 🌱 Actualmente estoy aprendiendo...
 - PHP - Laravel
