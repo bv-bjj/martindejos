@@ -14,5 +14,6 @@ Puedes ponerte en contacto puedes hacerlo a través de:
 
 
 <!-- links -->
-[Linkedin]: https://www.linkedin.com/in/mart%C3%ADn-madridejos-b832a4212/
+[Linkedin]: https://www.linkedin.com/in/mart%C3%ADn-madridejos-b832a4212/ ![image](https://user-images.githubusercontent.com/78349147/125965352-ef5f0f45-7b76-4058-926e-a1e5d56cc411.png)
+
 
