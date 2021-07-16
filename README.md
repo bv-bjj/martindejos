@@ -7,10 +7,13 @@
 ---> ⚡Y además, también he aprendido: Agile - Scrum - Pair programming - TDD - Clean Code. <br>
 ---> 😄Me gusta escribir, editar y organizar. Soy una persona enérgica, estable y creativa. <br>
 
-
-- [Linkedin] Linkedin.
+Si quieres contactar, puedes hacerlo a través de: 
+- [Linkedin] 
+- [Portfolio]
 
 <!-- links -->
 [Linkedin]: https://www.linkedin.com/in/mart%C3%ADn-madridejos-b832a4212/
+[Portfolio]: https://60edaf4c8f632e00075f4dde--kind-lewin-93aa27.netlify.app/#/
+
 
 
