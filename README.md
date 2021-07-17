@@ -11,6 +11,9 @@ Si quieres contactar, puedes hacerlo a través de:
 - [Linkedin] 
 - [Portfolio]
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martindejos)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!-- links -->
 [Linkedin]: https://www.linkedin.com/in/mart%C3%ADn-madridejos-b832a4212/
 [Portfolio]: https://60edaf4c8f632e00075f4dde--kind-lewin-93aa27.netlify.app/#/
