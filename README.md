@@ -1,11 +1,9 @@
-### ¡Hola, Bienvenid@s!! 👋
+<iframe src="https://giphy.com/embed/22A4ytrr6wPZSqQKAD" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/22A4ytrr6wPZSqQKAD">via GIPHY</a></p>
 
-## Soy Martín Madridejos:
-
----> 🌱Desarrollador web full-stack con foco en el Frontend.<br>
----> 🔭En 8 meses dedicado al estudio de la programación web he trabajado con: HTML - CSS - Javascript - Bootstrap - Tailwinds - Saas - React - Vue - PHP - Laravel - Mysql - Github - Figma - Canva - Diseño UX/UI. <br>
----> ⚡Y además, también he aprendido: Agile - Scrum - Pair programming - TDD - Clean Code. <br>
----> 😄Me gusta escribir, editar y organizar. Soy una persona enérgica, estable y creativa. <br>
+🌱Desarrollador web full-stack con foco en el Frontend.<br>
+🔭En 8 meses dedicado al estudio de la programación web he trabajado con: HTML - CSS - Javascript - Bootstrap - Tailwinds - Saas - React - Vue - PHP - Laravel - Mysql - Github - Figma - Canva - Diseño UX/UI. <br>
+⚡Y además, también he aprendido: Agile - Scrum - Pair programming - TDD - Clean Code. <br>
+😄Me gusta escribir, editar y organizar. Soy una persona enérgica, estable y creativa. <br>
 
 Si quieres contactar, puedes hacerlo a través de: 
 - [Linkedin] 
