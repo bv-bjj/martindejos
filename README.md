@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/22A4ytrr6wPZSqQKAD" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/22A4ytrr6wPZSqQKAD">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/22A4ytrr6wPZSqQKAD/giphy.gif">
 
 🌱Desarrollador web full-stack con foco en el Frontend.<br>
 🔭En 8 meses dedicado al estudio de la programación web he trabajado con: HTML - CSS - Javascript - Bootstrap - Tailwinds - Saas - React - Vue - PHP - Laravel - Mysql - Github - Figma - Canva - Diseño UX/UI. <br>
