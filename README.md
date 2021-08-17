@@ -2,9 +2,9 @@
 
 🌱Desarrollador web full-stack con foco en el Frontend.<br>
 <br>
-🔭En 6 meses dedicado al estudio de la programación web he trabajado con: HTML - CSS - Javascript - Bootstrap - Tailwinds - Saas - React - Vue - PHP - Laravel - Mysql - Github - Figma - Canva - Diseño UX/UI - Wordpress/Elementor <br>
+🔭HTML - CSS - Javascript - Bootstrap - Tailwinds - Saas - React - Vue - PHP - Laravel - Mysql - Github - Figma - Canva - Diseño UX/UI - Wordpress/Elementor <br>
 <br>
-⚡También he aprendido metodologías como... Agile - Scrum - Pair programming - TDD - Clean Code. <br>
+⚡Agile - Scrum - Pair programming - TDD - Clean Code. <br>
 <br>
 😄Me gusta escribir, editar y organizar. Soy una persona enérgica, estable y creativa. <br>
 
