@@ -1,14 +1,13 @@
 <img src="https://media.giphy.com/media/22A4ytrr6wPZSqQKAD/giphy.gif">
 
-🌱Desarrollador web full-stack con foco en el Frontend.<br>
+🌱Full-Stack Web Developer focused on Front-End. I am an energetic, stable and creative person with a diverse background. 
+🔭HTML - CSS - Javascript - Bootstrap - Tailwinds - Saas - React - Vue - PHP - Laravel - Mysql - Github - Figma - Canva - UX/UI Design - Wordpress/Elementor <br>
 <br>
-🔭HTML - CSS - Javascript - Bootstrap - Tailwinds - Saas - React - Vue - PHP - Laravel - Mysql - Github - Figma - Canva - Diseño UX/UI - Wordpress/Elementor <br>
+⚡Agile - Scrum - TDD - Clean Code. <br>
 <br>
-⚡Agile - Scrum - Pair programming - TDD - Clean Code. <br>
-<br>
-😄Me gusta escribir, editar y organizar. Soy una persona enérgica, estable y creativa. <br>
+😄Moreover, I love writing, editing and organising.
 
-Si quieres contactarme, puedes hacerlo a través de: 
+Contact through: 
 - [Linkedin] 
 - [Portfolio]
 
