@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/22A4ytrr6wPZSqQKAD/giphy.gif">
-
 🌱Full-Stack Web Developer focused on Front-End. I am an energetic, stable and creative person with a diverse background. 
 🔭HTML - CSS - Javascript - Bootstrap - Tailwinds - Saas - React - Vue - PHP - Laravel - Mysql - Github - Figma - Canva - UX/UI Design - Wordpress/Elementor <br>
 <br>
