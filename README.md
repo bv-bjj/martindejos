@@ -4,8 +4,8 @@
 <br>
 ⚡Agile - Scrum - TDD - Clean Code. <br>
 <br>
-😄I am an energetic, stable and creative person with a diverse background. Moreover, I love writing, editing and organising.
-
+😄I am an energetic, stable and creative person with a diverse background. Moreover, I love writing and editing.
+<br>
 Contact through: 
 - [Linkedin] 
 - [Portfolio]
