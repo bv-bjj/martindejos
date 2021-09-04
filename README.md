@@ -1,4 +1,4 @@
-🌱Full-Stack Web Developer. My focus as a developer is on the Front-End, although I work on the Back-End. I also like the UX/UI (making websites functional, beautiful and accesible) and enjoy teamwork and organizing.
+🌱Full-Stack Web developer focused on Front-End. Interested in UX/UI design and agile & scrum methodologies. Energetic and productive person with a diverse background, experienced working in international environments. I am highly motivated to continue learning and improving my craft. 
 <br>
 
 Contact through: [Linkedin] & [Portfolio]
