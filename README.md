@@ -1,12 +1,8 @@
-🌱Full-Stack Web Developer. My focus as a developer is on the Front-End, although I also work on the Back-End. I also like the UX/UI (making websites functional, beautiful and accesible) and enjoy teamwork and organizing.<br>
+🌱Full-Stack Web Developer. My focus as a developer is on the Front-End, although I also work on the Back-End. I also like the UX/UI (making websites functional, beautiful and accesible) and enjoy teamwork and organizing.
 <br>
 
 Contact through: 
-- [Linkedin] 
-- [Portfolio]
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martindejos)](https://github.com/anuraghazra/github-readme-stats)
-
+- [Linkedin], [Portfolio]
 
 <!-- links -->
 [Linkedin]: https://www.linkedin.com/in/mart%C3%ADn-madridejos-b832a4212/
