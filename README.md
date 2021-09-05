@@ -1,4 +1,4 @@
-🌱Full-Stack Web developer focused on Front-End. Interested in UX/UI design and agile & scrum methodologies. Energetic and productive person with a diverse background, experienced working in international environments. I am highly motivated to continue learning and improving my craft. 
+🌱Full-Stack Web developer focused on Front-End. Interested in UX/UI design and agile & scrum methodologies. Energetic and productive person with a diverse background - with experience working in international environments. I am highly motivated to continue learning and improving my craft.
 <br>
 
 Contact through: [Linkedin] & [Portfolio]
