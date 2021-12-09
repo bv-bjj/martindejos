@@ -1,4 +1,4 @@
-🌱Full-Stack Web developer focused on Front-End. Interested in UX/UI design and agile & scrum methodologies.
+🌱Front-End developer. Interested in UX/UI design and agile & scrum methodologies. Also: writer, political scientist, martial arts lover.
 <br>
 
 Contact through [Linkedin] and check my works on my [Portfolio]
