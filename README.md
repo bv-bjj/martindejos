@@ -1,6 +1,4 @@
-🌱Front-End developer. Interested in UX/UI design and agile & scrum methodologies. ´
-
-Also: writer, political scientist, martial arts lover.
+🌱Front-End developer. Also: writer, political scientist, martial arts lover.
 <br>
 
 Contact through [Linkedin] 
